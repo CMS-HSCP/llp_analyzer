@@ -1,7 +1,7 @@
-RazorAnalyzer
+llp_analyzer
 =============
 
-Class for analyzing the 2015 razor ntuples
+Class for analyzing the output from ntupler in SUSYBSMAnalysis-HSCP for HSCP analysis
 
 Setup
 -------------

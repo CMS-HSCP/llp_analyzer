@@ -34,7 +34,8 @@ test*.txt
 *.exe
 *.out
 *.app
-
+NormalizeNtuple
+SkimNtuple
 # directories
 normalized/*
 scripts_condor/log/*

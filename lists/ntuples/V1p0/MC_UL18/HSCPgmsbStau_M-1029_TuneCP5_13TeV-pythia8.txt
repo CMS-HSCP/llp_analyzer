@@ -1,0 +1,9 @@
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p0/MC_UL18/HSCPgmsbStau_M-1029_TuneCP5_13TeV-pythia8/HSCPNtupler_2018_HSCPgmsbStau_M-1029_wProbQ_v1p0_v1/221015_123137/0000/Histos_1.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p0/MC_UL18/HSCPgmsbStau_M-1029_TuneCP5_13TeV-pythia8/HSCPNtupler_2018_HSCPgmsbStau_M-1029_wProbQ_v1p0_v1/221015_123137/0000/Histos_2.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p0/MC_UL18/HSCPgmsbStau_M-1029_TuneCP5_13TeV-pythia8/HSCPNtupler_2018_HSCPgmsbStau_M-1029_wProbQ_v1p0_v1/221015_123137/0000/Histos_3.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p0/MC_UL18/HSCPgmsbStau_M-1029_TuneCP5_13TeV-pythia8/HSCPNtupler_2018_HSCPgmsbStau_M-1029_wProbQ_v1p0_v1/221015_123137/0000/Histos_4.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p0/MC_UL18/HSCPgmsbStau_M-1029_TuneCP5_13TeV-pythia8/HSCPNtupler_2018_HSCPgmsbStau_M-1029_wProbQ_v1p0_v1/221015_123137/0000/Histos_5.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p0/MC_UL18/HSCPgmsbStau_M-1029_TuneCP5_13TeV-pythia8/HSCPNtupler_2018_HSCPgmsbStau_M-1029_wProbQ_v1p0_v1/221015_123137/0000/Histos_6.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p0/MC_UL18/HSCPgmsbStau_M-1029_TuneCP5_13TeV-pythia8/HSCPNtupler_2018_HSCPgmsbStau_M-1029_wProbQ_v1p0_v1/221015_123137/0000/Histos_7.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p0/MC_UL18/HSCPgmsbStau_M-1029_TuneCP5_13TeV-pythia8/HSCPNtupler_2018_HSCPgmsbStau_M-1029_wProbQ_v1p0_v1/221015_123137/0000/Histos_8.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p0/MC_UL18/HSCPgmsbStau_M-1029_TuneCP5_13TeV-pythia8/HSCPNtupler_2018_HSCPgmsbStau_M-1029_wProbQ_v1p0_v1/221015_123137/0000/Histos_9.root

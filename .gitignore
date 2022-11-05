@@ -1,0 +1,48 @@
+# Prerequisites
+*.d
+
+# local files
+#*.root
+*.list
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# directories
+normalized/*
+scripts_condor/log/*
+scripts_condor/submit/*
+scripts_condor/tarball/
+bin/*
+python/*.pyc
+src/Run*
+data/JEC/
+*.*~
+
+#*#

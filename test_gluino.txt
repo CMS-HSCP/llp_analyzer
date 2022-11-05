@@ -1,0 +1,1 @@
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p0/MC_UL18/HSCPgluino_M-1800_TuneCP5_13TeV-pythia8/HSCPNtupler_2018_HSCPgluino_M-1800_wProbQ_v1p0_v1/221015_122448/0000/Histos_8.root

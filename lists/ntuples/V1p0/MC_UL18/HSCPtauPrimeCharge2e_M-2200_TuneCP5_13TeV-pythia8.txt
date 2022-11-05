@@ -1,0 +1,7 @@
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p0/MC_UL18/HSCPtauPrimeCharge2e_M-2200_TuneCP5_13TeV-pythia8/HSCPNtupler_2018_HSCPtauPrimeCharge2e_M-2200_wProbQ_v1p0_v1/221015_132119/0000/Histos_1.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p0/MC_UL18/HSCPtauPrimeCharge2e_M-2200_TuneCP5_13TeV-pythia8/HSCPNtupler_2018_HSCPtauPrimeCharge2e_M-2200_wProbQ_v1p0_v1/221015_132119/0000/Histos_2.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p0/MC_UL18/HSCPtauPrimeCharge2e_M-2200_TuneCP5_13TeV-pythia8/HSCPNtupler_2018_HSCPtauPrimeCharge2e_M-2200_wProbQ_v1p0_v1/221015_132119/0000/Histos_3.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p0/MC_UL18/HSCPtauPrimeCharge2e_M-2200_TuneCP5_13TeV-pythia8/HSCPNtupler_2018_HSCPtauPrimeCharge2e_M-2200_wProbQ_v1p0_v1/221015_132119/0000/Histos_4.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p0/MC_UL18/HSCPtauPrimeCharge2e_M-2200_TuneCP5_13TeV-pythia8/HSCPNtupler_2018_HSCPtauPrimeCharge2e_M-2200_wProbQ_v1p0_v1/221015_132119/0000/Histos_5.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p0/MC_UL18/HSCPtauPrimeCharge2e_M-2200_TuneCP5_13TeV-pythia8/HSCPNtupler_2018_HSCPtauPrimeCharge2e_M-2200_wProbQ_v1p0_v1/221015_132119/0000/Histos_6.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p0/MC_UL18/HSCPtauPrimeCharge2e_M-2200_TuneCP5_13TeV-pythia8/HSCPNtupler_2018_HSCPtauPrimeCharge2e_M-2200_wProbQ_v1p0_v1/221015_132119/0000/Histos_7.root

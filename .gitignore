@@ -2,8 +2,9 @@
 *.d
 
 # local files
-#*.root
+*.root
 *.list
+test*.txt
 # Compiled Object files
 *.slo
 *.lo

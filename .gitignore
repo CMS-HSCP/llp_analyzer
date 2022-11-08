@@ -4,7 +4,6 @@
 # local files
 *.root
 *.list
-test*.txt
 # Compiled Object files
 *.slo
 *.lo
@@ -41,7 +40,7 @@ normalized/*
 scripts_condor/log/*
 scripts_condor/submit/*
 scripts_condor/tarball/
-bin/*
+bin/Run*
 python/*.pyc
 src/Run*
 data/JEC/

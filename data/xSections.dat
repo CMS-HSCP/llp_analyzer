@@ -21,7 +21,8 @@ TTToHadronic_TuneCP5_13TeV-powheg-pythia8               377.96
 WJetsToLNu_0J_TuneCP5_13TeV-amcatnloFXFX-pythia8        53330.0 #    +-90.89
 WJetsToLNu_1J_TuneCP5_13TeV-amcatnloFXFX-pythia8        8875.0  #    +-55.31
 WJetsToLNu_2J_TuneCP5_13TeV-amcatnloFXFX-pythia8        3338.0  #    +-34.64
-WJetsToLNu_TuneCP5_13TeV-amcatnloFXFX-pythia8         67350.0  # +- 286.2 # Tamas used 61526.7, #+-    61526.7, WJetsToLNu, this is also what FCP used, (NNLO)
+# https://twiki.cern.ch/twiki/bin/viewauth/CMS/StandardModelCrossSectionsat13TeV, NNLO
+WJetsToLNu_TuneCP5_13TeV-amcatnloFXFX-pythia8         61526.7
 
 
 #### gluino sample

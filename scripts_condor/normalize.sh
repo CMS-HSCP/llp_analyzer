@@ -82,7 +82,7 @@ then
 
 
 	# copy normalized file back to hadoop
-        mkdir ${outputDir}
+        mkdir -p ${outputDir}
 	cp ${runDir}/${output} ${outputDir}/${output}
 
 

@@ -86,9 +86,9 @@ if __name__ == '__main__':
     parser = OptionParser()
     parser.add_option('-o','--output',dest="output",type="string",default="test.json",
                   help="Name of the json file to write to")
-    parser.add_option('-l','--lumi-branch',dest="lumiBranch",type="string",default="lumi",
+    parser.add_option('-l','--lumi-branch',dest="lumiBranch",type="string",default="lumiSec",
                   help="Name of lumi branch in tree")
-    parser.add_option('-r','--run-branch',dest="runBranch",type="string",default="run",
+    parser.add_option('-r','--run-branch',dest="runBranch",type="string",default="runNum",
                   help="Name of run branch in tree")
     
     (options,args) = parser.parse_args()

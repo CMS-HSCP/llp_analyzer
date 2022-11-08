@@ -13,7 +13,8 @@ os.system("mkdir -p log")
 executable = "normalize.sh"
 
 
-inputDir="/storage/af/group/phys_exotica/HSCPAnalyzer/V1p0/MC_UL18/v1/"
+inputDir="/storage/af/group/phys_exotica/HSCPAnalyzer/V1p0/MC_UL18/v2/"
+#inputDir="/storage/af/group/phys_exotica/HSCPAnalyzer/V1p0/Data_UL/SingleMuon/v2/"
 outputDir=inputDir  + "/normalized/"
 HOME = os.getenv('HOME')
 CMSSW_BASE = os.getenv('CMSSW_BASE')
@@ -25,7 +26,7 @@ datasetList = OrderedDict()
 samples = os.listdir(inputDir)
 for s in samples:
     if "normalize" in s: continue
-    if not 'HSCPgluino_M-1800_TuneCP5_13TeV-pythia8' in s:continue
+    if not 'TTToSemiLeptonic' in s:continue
     if 'Data' in inputDir: datasetList[s.replace('.txt', '')] = ["2018", "yes"]
     else: datasetList[s.replace('.txt', '')] = ["2018", "no"]
 ############
@@ -34,7 +35,7 @@ os.system("eval `scram runtime -sh`")
 print("input directory: " + inputDir)
 for sample in datasetList.keys():
 
-    print("Normalizing for dataset :" + sample + "\n")
+    print("Normalizing for dataset: " + sample + "\n")
 
     year = datasetList[sample][0]
     isData = datasetList[sample][1]

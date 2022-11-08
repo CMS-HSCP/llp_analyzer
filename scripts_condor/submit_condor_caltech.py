@@ -16,7 +16,7 @@ analyzer="HSCPAnalyzer"
 filesPerJob = 40
 ntupler_version= "V1p0/Data_UL/SingleMuon/"
 #ntupler_version= "V1p0/MC_UL18/"
-analyzer_version = 'v1'
+analyzer_version = 'v2'
 outputDirectoryBase="/storage/af/group/phys_exotica/HSCPAnalyzer/{0}/{1}/".format(ntupler_version, analyzer_version)
 
 HOME = os.getenv('HOME')
@@ -30,7 +30,7 @@ datasetListDir = Analyzer_DIR + "lists/ntuples/{}/".format(ntupler_version)
 datasetList = OrderedDict()
 samples = os.listdir(datasetListDir)
 for s in samples:
-    if not "Run2018C" in s:continue
+    #if not "Run2018C" in s:continue
     if 'Data' in ntupler_version: datasetList[s.replace('.txt', '')] = ["2018", "yes"]
     else: datasetList[s.replace('.txt', '')] = ["2018", "no"]
 ############
@@ -39,7 +39,7 @@ for s in samples:
 
 for sample in datasetList.keys():
 
-    print("Preparing analyzer workflow for dataset :" + sample + "\n")
+    print("Preparing analyzer workflow for dataset: " + sample + "\n")
 
     inputfilelist  = datasetListDir + sample +'.txt'
     if not os.path.exists(inputfilelist):

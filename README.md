@@ -1,7 +1,7 @@
-RazorAnalyzer
+llp_analyzer
 =============
 
-Class for analyzing the 2015 razor ntuples
+Class for analyzing the output from ntupler in SUSYBSMAnalysis-HSCP for HSCP analysis
 
 Setup
 -------------
@@ -41,7 +41,7 @@ The "options" are the following:
 
 
 ## Run the llp_analyzer
-    ./RazorRun_T2 <list of input files> llp_vH -d=${isData} -n=${option} -f=${outputfile} -l=${tag}
+    ./RazorRun <list of input files> llp_vH -d=${isData} -n=${option} -f=${outputfile} -l=${tag}
 * ```isData``` is ```yes``` or ```no```
 * currently the options and tags don't do anything
 * list of input files are stored in ```lists/ntuples``` 

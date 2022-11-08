@@ -2,7 +2,139 @@
 ## Cross section in pb for datasets
 ##
 
-HSCPgluino_M-1800_TuneCP5_13TeV-pythia8				0.00273
+# from XSDB, agrees with Tamas's number, except 1000pT, couldn't find on XSDB
+QCD_Pt-1000_MuEnrichedPt5_TuneCP5_13TeV-pythia8               1.61
+QCD_Pt-120To170_MuEnrichedPt5_TuneCP5_13TeV-pythia8           21070.0
+QCD_Pt-170To300_MuEnrichedPt5_TuneCP5_13TeV-pythia8           7019.0
+QCD_Pt-300To470_MuEnrichedPt5_TuneCP5_13TeV-pythia8           622.4
+QCD_Pt-470To600_MuEnrichedPt5_TuneCP5_13TeV-pythia8           58.86
+QCD_Pt-50To80_MuEnrichedPt5_TuneCP5_13TeV-pythia8             377800.0
+QCD_Pt-600To800_MuEnrichedPt5_TuneCP5_13TeV-pythia8           18.22
+QCD_Pt-800To1000_MuEnrichedPt5_TuneCP5_13TeV-pythia8          3.25
+QCD_Pt-80To120_MuEnrichedPt5_TuneCP5_13TeV-pythia8            88620.0
+
+# used number from XSDB, agrees with Tamas's number
+# https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO
+TTTo2L2Nu_TuneCP5_13TeV-powheg-pythia8                  88.29
+TTToSemiLeptonic_TuneCP5_13TeV-powheg-pythia8           365.34
+TTToHadronic_TuneCP5_13TeV-powheg-pythia8               377.96
+WJetsToLNu_0J_TuneCP5_13TeV-amcatnloFXFX-pythia8        53330.0 #    +-90.89
+WJetsToLNu_1J_TuneCP5_13TeV-amcatnloFXFX-pythia8        8875.0  #    +-55.31
+WJetsToLNu_2J_TuneCP5_13TeV-amcatnloFXFX-pythia8        3338.0  #    +-34.64
+WJetsToLNu_TuneCP5_13TeV-amcatnloFXFX-pythia8         67350.0  # +- 286.2 # Tamas used 61526.7, #+-    61526.7, WJetsToLNu, this is also what FCP used, (NNLO)
+
+
+#### gluino sample
+#### https://twiki.cern.ch/twiki/bin/view/LHCPhysics/SUSYCrossSections13TeVgluglu#NLO_NLL
+#### if mass < 500 GeV, use NLO+NLL
+#### if mass >= 500 GeV, use NNLO + NNLL
+HSCPgluinoOnlyNeutral_M-200_TuneCP5_13TeV-pythia8             3574.52
+HSCPgluinoOnlyNeutral_M-400_TuneCP5_13TeV-pythia8             98.0459
+HSCPgluinoOnlyNeutral_M-800_TuneCP5_13TeV-pythia8             1.81
+HSCPgluinoOnlyNeutral_M-1000_TuneCP5_13TeV-pythia8            0.385
+HSCPgluinoOnlyNeutral_M-1200_TuneCP5_13TeV-pythia8            0.0985
+HSCPgluinoOnlyNeutral_M-1400_TuneCP5_13TeV-pythia8            0.0284
+HSCPgluinoOnlyNeutral_M-1600_TuneCP5_13TeV-pythia8            0.00887
+HSCPgluinoOnlyNeutral_M-1800_TuneCP5_13TeV-pythia8            0.00293
+HSCPgluinoOnlyNeutral_M-2000_TuneCP5_13TeV-pythia8            0.00101
+HSCPgluinoOnlyNeutral_M-2200_TuneCP5_13TeV-pythia8            0.000356
+HSCPgluinoOnlyNeutral_M-2400_TuneCP5_13TeV-pythia8            0.000128
+HSCPgluinoOnlyNeutral_M-2600_TuneCP5_13TeV-pythia8            4.62e-05
+
+HSCPgluino_M-200_TuneCP5_13TeV-pythia8                        3574.52
+HSCPgluino_M-400_TuneCP5_13TeV-pythia8                        98.0459
+HSCPgluino_M-500_TuneCP5_13TeV-pythia8                        33.8
+HSCPgluino_M-800_TuneCP5_13TeV-pythia8                        1.81
+HSCPgluino_M-1000_TuneCP5_13TeV-pythia8                       0.385
+HSCPgluino_M-1400_TuneCP5_13TeV-pythia8                       0.0284
+HSCPgluino_M-1600_TuneCP5_13TeV-pythia8                       0.00887
+HSCPgluino_M-1800_TuneCP5_13TeV-pythia8                       0.00293
+HSCPgluino_M-2000_TuneCP5_13TeV-pythia8                       0.00101
+HSCPgluino_M-2200_TuneCP5_13TeV-pythia8                       0.000356
+HSCPgluino_M-2400_TuneCP5_13TeV-pythia8                       0.000128
+HSCPgluino_M-2600_TuneCP5_13TeV-pythia8                       4.62e-05
+
+
+#### xsec number taken from Table 13 of AN-16-201
+HSCPgmsbStau_M-1029_TuneCP5_13TeV-pythia8		1
+HSCPgmsbStau_M-1218_TuneCP5_13TeV-pythia8		1
+HSCPgmsbStau_M-1409_TuneCP5_13TeV-pythia8		1
+HSCPgmsbStau_M-1599_TuneCP5_13TeV-pythia8		1
+HSCPgmsbStau_M-200_TuneCP5_13TeV-pythia8		1
+HSCPgmsbStau_M-247_TuneCP5_13TeV-pythia8		1
+HSCPgmsbStau_M-308_TuneCP5_13TeV-pythia8		1
+HSCPgmsbStau_M-432_TuneCP5_13TeV-pythia8		1
+HSCPgmsbStau_M-557_TuneCP5_13TeV-pythia8		1
+HSCPgmsbStau_M-651_TuneCP5_13TeV-pythia8		1
+HSCPgmsbStau_M-745_TuneCP5_13TeV-pythia8		1
+HSCPgmsbStau_M-871_TuneCP5_13TeV-pythia8		1
+HSCPpairStau_M-1029_TuneCP5_13TeV-pythia8		1
+HSCPpairStau_M-1218_TuneCP5_13TeV-pythia8		1
+HSCPpairStau_M-1409_TuneCP5_13TeV-pythia8		1
+HSCPpairStau_M-1599_TuneCP5_13TeV-pythia8		1
+HSCPpairStau_M-200_TuneCP5_13TeV-pythia8		1
+HSCPpairStau_M-247_TuneCP5_13TeV-pythia8		1
+HSCPpairStau_M-308_TuneCP5_13TeV-pythia8		1
+HSCPpairStau_M-432_TuneCP5_13TeV-pythia8		1
+HSCPpairStau_M-557_TuneCP5_13TeV-pythia8		1
+HSCPpairStau_M-651_TuneCP5_13TeV-pythia8		1
+HSCPpairStau_M-745_TuneCP5_13TeV-pythia8		1
+HSCPpairStau_M-871_TuneCP5_13TeV-pythia8		1
+
+
+### stop xsec: https://github.com/fuenfundachtzig/xsec/blob/master/json/pp13_stopsbottom_NNLO%2BNNLL.json
+HSCPstopOnlyNeutral_M-1000_TuneCP5_13TeV-pythia8                      0.00683
+HSCPstopOnlyNeutral_M-100_TuneCP5_13TeV-pythia8                      1770.0
+HSCPstopOnlyNeutral_M-1200_TuneCP5_13TeV-pythia8                      0.0017
+HSCPstopOnlyNeutral_M-1400_TuneCP5_13TeV-pythia8                      0.000473
+HSCPstopOnlyNeutral_M-1600_TuneCP5_13TeV-pythia8                      0.000142
+HSCPstopOnlyNeutral_M-1800_TuneCP5_13TeV-pythia8                      4.51e-05
+HSCPstopOnlyNeutral_M-2000_TuneCP5_13TeV-pythia8                      1.48e-05
+HSCPstopOnlyNeutral_M-200_TuneCP5_13TeV-pythia8                      75.5
+HSCPstopOnlyNeutral_M-2200_TuneCP5_13TeV-pythia8                      5e-06
+HSCPstopOnlyNeutral_M-2400_TuneCP5_13TeV-pythia8                      1.71e-06
+HSCPstopOnlyNeutral_M-2600_TuneCP5_13TeV-pythia8                      5.9e-07
+HSCPstopOnlyNeutral_M-400_TuneCP5_13TeV-pythia8                      2.15
+HSCPstopOnlyNeutral_M-500_TuneCP5_13TeV-pythia8                      0.609
+HSCPstopOnlyNeutral_M-800_TuneCP5_13TeV-pythia8                      0.0326
+HSCPstop_M-1000_TuneCP5_13TeV-pythia8                      0.00683
+HSCPstop_M-100_TuneCP5_13TeV-pythia8                      1770.0
+HSCPstop_M-1200_TuneCP5_13TeV-pythia8                      0.0017
+HSCPstop_M-1400_TuneCP5_13TeV-pythia8                      0.000473
+HSCPstop_M-1600_TuneCP5_13TeV-pythia8                      0.000142
+HSCPstop_M-1800_TuneCP5_13TeV-pythia8                      4.51e-05
+HSCPstop_M-2000_TuneCP5_13TeV-pythia8                      1.48e-05
+HSCPstop_M-200_TuneCP5_13TeV-pythia8                      75.5
+HSCPstop_M-2200_TuneCP5_13TeV-pythia8                      5e-06
+HSCPstop_M-2400_TuneCP5_13TeV-pythia8                      1.71e-06
+HSCPstop_M-2600_TuneCP5_13TeV-pythia8                      5.9e-07
+HSCPstop_M-400_TuneCP5_13TeV-pythia8                      2.15
+HSCPstop_M-500_TuneCP5_13TeV-pythia8                      0.609
+HSCPstop_M-800_TuneCP5_13TeV-pythia8                      0.0326
+
+
+#### normalized to 1pb for now
+
+HSCPtauPrimeCharge1e_M-1000_TuneCP5_13TeV-pythia8                      1
+HSCPtauPrimeCharge1e_M-100_TuneCP5_13TeV-pythia8                      1
+HSCPtauPrimeCharge1e_M-1400_TuneCP5_13TeV-pythia8                      1
+HSCPtauPrimeCharge1e_M-1800_TuneCP5_13TeV-pythia8                      1
+HSCPtauPrimeCharge1e_M-200_TuneCP5_13TeV-pythia8                     1
+HSCPtauPrimeCharge1e_M-2200_TuneCP5_13TeV-pythia8                      1
+HSCPtauPrimeCharge1e_M-2600_TuneCP5_13TeV-pythia8                     1
+HSCPtauPrimeCharge1e_M-400_TuneCP5_13TeV-pythia8                      1
+HSCPtauPrimeCharge1e_M-500_TuneCP5_13TeV-pythia8                      1
+HSCPtauPrimeCharge1e_M-800_TuneCP5_13TeV-pythia8                      1
+
+HSCPtauPrimeCharge2e_M-1000_TuneCP5_13TeV-pythia8                      1
+HSCPtauPrimeCharge2e_M-100_TuneCP5_13TeV-pythia8                      1
+HSCPtauPrimeCharge2e_M-1400_TuneCP5_13TeV-pythia8                      1
+HSCPtauPrimeCharge2e_M-1800_TuneCP5_13TeV-pythia8                      1
+HSCPtauPrimeCharge2e_M-200_TuneCP5_13TeV-pythia8                      1
+HSCPtauPrimeCharge2e_M-2200_TuneCP5_13TeV-pythia8                      1
+HSCPtauPrimeCharge2e_M-2600_TuneCP5_13TeV-pythia8                      1
+HSCPtauPrimeCharge2e_M-400_TuneCP5_13TeV-pythia8                      1
+HSCPtauPrimeCharge2e_M-500_TuneCP5_13TeV-pythia8                      1
 
 #2017 samples, xsec taken from AN-18-008
 ZToMuMu_NNPDF31_13TeV-powheg_M_50_120							2112.9

@@ -156,12 +156,12 @@ void HSCPAnalyzer::Analyze(bool isData, int options, string outputfilename, stri
       //*************************************************************************
       // MET-related variables
       //*************************************************************************
-      tree->met = RecoPFMET_phi;
+      tree->met = RecoPFMET;
       tree->metPhi = RecoPFMET_phi;
 
 
       //Triggers
-
+      if (!HLT_Mu50) continue;
       tree->HLT_Mu50 = HLT_Mu50;
       tree->HLT_PFMET120_PFMHT120_IDTight = HLT_PFMET120_PFMHT120_IDTight;
       tree->HLT_PFHT500_PFMET100_PFMHT100_IDTight = HLT_PFHT500_PFMET100_PFMHT100_IDTight;

@@ -1,0 +1,8 @@
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/MC_UL18/HSCPgluino_M-2400_TuneCP5_13TeV-pythia8/HSCPNtupler_2018_HSCPgluino_M-2400_wProbQ_v1p2_v1/221224_215105/0000/Histos_numEvent1000_1.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/MC_UL18/HSCPgluino_M-2400_TuneCP5_13TeV-pythia8/HSCPNtupler_2018_HSCPgluino_M-2400_wProbQ_v1p2_v1/221224_215105/0000/Histos_numEvent1000_2.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/MC_UL18/HSCPgluino_M-2400_TuneCP5_13TeV-pythia8/HSCPNtupler_2018_HSCPgluino_M-2400_wProbQ_v1p2_v1/221224_215105/0000/Histos_numEvent1000_3.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/MC_UL18/HSCPgluino_M-2400_TuneCP5_13TeV-pythia8/HSCPNtupler_2018_HSCPgluino_M-2400_wProbQ_v1p2_v1/221224_215105/0000/Histos_numEvent1000_4.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/MC_UL18/HSCPgluino_M-2400_TuneCP5_13TeV-pythia8/HSCPNtupler_2018_HSCPgluino_M-2400_wProbQ_v1p2_v1/221224_215105/0000/Histos_numEvent1000_5.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/MC_UL18/HSCPgluino_M-2400_TuneCP5_13TeV-pythia8/HSCPNtupler_2018_HSCPgluino_M-2400_wProbQ_v1p2_v1/221224_215105/0000/Histos_numEvent1000_6.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/MC_UL18/HSCPgluino_M-2400_TuneCP5_13TeV-pythia8/HSCPNtupler_2018_HSCPgluino_M-2400_wProbQ_v1p2_v1/221224_215105/0000/Histos_numEvent1000_7.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/MC_UL18/HSCPgluino_M-2400_TuneCP5_13TeV-pythia8/HSCPNtupler_2018_HSCPgluino_M-2400_wProbQ_v1p2_v1/221224_215105/0000/Histos_numEvent1000_8.root

@@ -70,6 +70,7 @@ root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_161.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_162.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_163.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_164.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_165.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_166.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_167.root
@@ -80,6 +81,7 @@ root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_171.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_172.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_173.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_174.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_175.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_176.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_177.root
@@ -190,6 +192,7 @@ root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_272.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_273.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_274.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_275.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_276.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_277.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_278.root
@@ -323,6 +326,7 @@ root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_393.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_394.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_395.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_396.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_397.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_398.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_399.root
@@ -350,6 +354,7 @@ root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_418.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_419.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_42.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_420.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_421.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_422.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_423.root
@@ -364,6 +369,7 @@ root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_431.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_432.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_433.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_434.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_435.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_436.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_437.root
@@ -572,6 +578,7 @@ root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_620.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_621.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_622.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_623.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_624.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_625.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_626.root
@@ -605,12 +612,14 @@ root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_651.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_652.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_653.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_654.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_655.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_656.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_657.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_658.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_659.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_66.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_660.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_661.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_662.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_663.root
@@ -635,6 +644,7 @@ root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_680.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_681.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_682.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_683.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_684.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_685.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_686.root
@@ -645,6 +655,7 @@ root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_690.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_691.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_692.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_693.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_694.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_695.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_696.root
@@ -748,6 +759,7 @@ root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_784.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_785.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_786.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_787.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_788.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_789.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_79.root
@@ -765,6 +777,7 @@ root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_80.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_800.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_801.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_802.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_803.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_804.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_805.root
@@ -774,6 +787,7 @@ root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_809.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_81.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_810.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_811.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_812.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_813.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_814.root
@@ -820,6 +834,7 @@ root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_851.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_852.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_853.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_854.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_855.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_856.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_857.root
@@ -850,6 +865,7 @@ root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_88.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_880.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_881.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_882.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_883.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_884.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0000/Histos_885.root
@@ -1090,10 +1106,12 @@ root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1109.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1110.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1111.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1112.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1113.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1114.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1115.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1116.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1117.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1118.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1119.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1120.root
@@ -1172,6 +1190,7 @@ root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1193.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1194.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1195.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1196.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1197.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1198.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1199.root
@@ -1229,6 +1248,7 @@ root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1251.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1252.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1253.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1254.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1255.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1256.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1257.root
@@ -1256,6 +1276,7 @@ root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1279.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1280.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1281.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1282.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1283.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1284.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1285.root
@@ -1269,6 +1290,7 @@ root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1293.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1294.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1295.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1296.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1297.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1298.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1299.root
@@ -1285,6 +1307,7 @@ root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1312.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1313.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1314.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1315.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1316.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1317.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1318.root
@@ -1312,6 +1335,7 @@ root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1340.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1341.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1342.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1343.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1344.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1345.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1346.root
@@ -1320,6 +1344,7 @@ root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1349.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1350.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1351.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1352.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1353.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1354.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1355.root
@@ -1331,14 +1356,18 @@ root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1361.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1362.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1363.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1364.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1365.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1366.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1367.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1368.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1369.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1370.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1371.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1372.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1373.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1374.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1375.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1376.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1377.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1378.root
@@ -1392,6 +1421,7 @@ root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1427.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1428.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1429.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1430.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1431.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1432.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1433.root
@@ -1883,6 +1913,7 @@ root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1921.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1922.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1923.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1924.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1925.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1926.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0001/Histos_1927.root
@@ -2095,6 +2126,7 @@ root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0002/Histos_2134.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0002/Histos_2135.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0002/Histos_2136.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0002/Histos_2137.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0002/Histos_2138.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0002/Histos_2139.root
 root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p2/Data_UL/SingleMuon/HSCPNtupler_SingleMuon_Run2017E_CodeV1p2_v1/230109_145039/0002/Histos_2140.root

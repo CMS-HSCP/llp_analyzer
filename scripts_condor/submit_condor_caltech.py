@@ -13,10 +13,12 @@ os.system("mkdir -p submit")
 os.system("mkdir -p log")
 executable = "runAnalyzer.sh"
 analyzer="HSCPAnalyzer"
-filesPerJob = 40
-ntupler_version= "V1p0/Data_UL/SingleMuon/"
-#ntupler_version= "V1p0/MC_UL18/"
-analyzer_version = 'v2'
+filesPerJob = 10
+filesPerThread = 10
+# 10 10 before
+ntupler_version= "V1p2/Data_UL/SingleMuon/"
+ntupler_version= "V1p2/MC_UL18/"
+analyzer_version = 'v8'
 outputDirectoryBase="/storage/af/group/phys_exotica/HSCPAnalyzer/{0}/{1}/".format(ntupler_version, analyzer_version)
 
 HOME = os.getenv('HOME')
@@ -30,7 +32,8 @@ datasetListDir = Analyzer_DIR + "lists/ntuples/{}/".format(ntupler_version)
 datasetList = OrderedDict()
 samples = os.listdir(datasetListDir)
 for s in samples:
-    #if not "Run2018C" in s:continue
+    if 'MC' in ntupler_version and not 'HSCP' in s:continue
+    #if not "gluino" in s and not 'Stau' in s:continue
     if 'Data' in ntupler_version: datasetList[s.replace('.txt', '')] = ["2018", "yes"]
     else: datasetList[s.replace('.txt', '')] = ["2018", "no"]
 ############
@@ -68,15 +71,15 @@ for sample in datasetList.keys():
 
     tmpCondorJDLFile.write("Universe = vanilla \n")
     tmpCondorJDLFile.write("Executable = {} \n".format(executable))
-    tmpCondorJDLFile.write("Arguments = {} {} {} {} $(ProcId) {} {} {} {} {}/ \n"\
-                            .format(analyzer, inputfilelist, isData, filesPerJob, maxjob, outputDirectory, analyzerTag, CMSSW_BASE, HOME))
+    tmpCondorJDLFile.write("Arguments = {} {} {} {} $(ProcId) {} {} {} {} {} {}/ \n"\
+                            .format(analyzer, inputfilelist, isData, filesPerJob, maxjob, filesPerThread, outputDirectory, analyzerTag, CMSSW_BASE, HOME))
 
     tmpCondorJDLFile.write("Log = log/{}_{}_Job$(ProcId)_Of_{}_$(Cluster).$(Process).log \n".format(analyzer, sample, maxjob))
     tmpCondorJDLFile.write("Output = log/{}_{}_Job$(ProcId)_Of_{}_$(Cluster).$(Process).out \n".format(analyzer, sample, maxjob))
     tmpCondorJDLFile.write("Error = log/{}_{}_Job$(ProcId)_Of_{}_$(Cluster).$(Process).err \n".format(analyzer, sample, maxjob))
 
     tmpCondorJDLFile.write("+JobQueue=\"Short\" \n")
-    tmpCondorJDLFile.write("RequestMemory = 2000 \n")
+    tmpCondorJDLFile.write("RequestMemory = 4000 \n")
     tmpCondorJDLFile.write("RequestCpus = 1 \n")
     tmpCondorJDLFile.write("RequestDisk = 4 \n")
 
@@ -91,4 +94,4 @@ for sample in datasetList.keys():
     tmpCondorJDLFile.write("Queue {} \n".format(maxjob))
     tmpCondorJDLFile.close()
 
-    os.system("condor_submit {} --batch-name {}".format(jdl_file, sample))
+    os.system("condor_submit {} --batch-name analyzer_{}".format(jdl_file, sample))

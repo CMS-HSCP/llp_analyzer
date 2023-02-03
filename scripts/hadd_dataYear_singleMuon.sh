@@ -1,44 +1,32 @@
-ver=V1p17
-anaVer=/v5/v83/
-outputRoot=(
-Run2_displacedJetMuonNtupler_${ver}_Data2016_Run2016-ZMu-07Aug17.root
-Run2_displacedJetMuonNtupler_${ver}_Data2017_Run2017-ZMu-17Nov2017.root
-Run2_displacedJetMuonNtupler_${ver}_Data2018_17Sept2018_Run2018-ZMu-17Sep2018.root
-)
-dir=(
-/store/group/phys_exotica/delayedjets/displacedJetMuonAnalyzer/csc/${ver}/Data2016/${anaVer}/normalized/
-/store/group/phys_exotica/delayedjets/displacedJetMuonAnalyzer/csc/${ver}/Data2017/${anaVer}/normalized/
-/store/group/phys_exotica/delayedjets/displacedJetMuonAnalyzer/csc/${ver}/Data2018/${anaVer}/normalized/
-)
+version=V1p2
+dir=/storage/af/group/phys_exotica/HSCPAnalyzer/${version}/Data_UL/SingleMuon/v8/normalized/
 eval `scram runtime -sh`
 
 
 ###############
 # hadd by year
 ##############
+hadd HSCPNtupler_SingleMuon_Run2017.root ${dir}/HSCPNtupler_SingleMuon_Run2017B_Code${version}_v1.root ${dir}/HSCPNtupler_SingleMuon_Run2017C_Code${version}_v1.root  ${dir}/HSCPNtupler_SingleMuon_Run2017D_Code${version}_v1.root ${dir}/HSCPNtupler_SingleMuon_Run2017E_Code${version}_v1.root ${dir}/HSCPNtupler_SingleMuon_Run2017F_Code${version}_v1.root
 
-hadd ${outputRoot[0]} /mnt/hadoop/${dir[0]}/Run2_displacedJetMuonNtupler_V1p17_Data2016_Run2016B-ZMu-07Aug17_ver1.root /mnt/hadoop/${dir[0]}/Run2_displacedJetMuonNtupler_V1p17_Data2016_Run2016B-ZMu-07Aug17_ver2.root /mnt/hadoop/${dir[0]}/Run2_displacedJetMuonNtupler_V1p17_Data2016_Run2016C-ZMu-07Aug17.root /mnt/hadoop/${dir[0]}/Run2_displacedJetMuonNtupler_V1p17_Data2016_Run2016D-ZMu-07Aug17.root /mnt/hadoop/${dir[0]}/Run2_displacedJetMuonNtupler_V1p17_Data2016_Run2016E-ZMu-07Aug17.root /mnt/hadoop/${dir[0]}/Run2_displacedJetMuonNtupler_V1p17_Data2016_Run2016F-ZMu-07Aug17.root /mnt/hadoop/${dir[0]}/Run2_displacedJetMuonNtupler_V1p17_Data2016_Run2016G-ZMu-07Aug17.root /mnt/hadoop/${dir[0]}/Run2_displacedJetMuonNtupler_V1p17_Data2016_Run2016H-ZMu-07Aug17.root
-
-hadd ${outputRoot[1]} /mnt/hadoop/${dir[1]}/Run2_displacedJetMuonNtupler_V1p17_Data2017_Run2017B-ZMu-17Nov2017.root /mnt/hadoop/${dir[1]}/Run2_displacedJetMuonNtupler_V1p17_Data2017_Run2017C-ZMu-17Nov2017.root /mnt/hadoop/${dir[1]}/Run2_displacedJetMuonNtupler_V1p17_Data2017_Run2017D-ZMu-17Nov2017.root /mnt/hadoop/${dir[1]}/Run2_displacedJetMuonNtupler_V1p17_Data2017_Run2017E-ZMu-17Nov2017.root /mnt/hadoop/${dir[1]}/Run2_displacedJetMuonNtupler_V1p17_Data2017_Run2017F-ZMu-17Nov2017.root /mnt/hadoop/${dir[1]}/Run2_displacedJetMuonNtupler_V1p17_Data2017_Run2017G-ZMu-17Nov2017.root /mnt/hadoop/${dir[1]}/Run2_displacedJetMuonNtupler_V1p17_Data2017_Run2017H-ZMu-17Nov2017.root
-
-hadd ${outputRoot[2]} /mnt/hadoop/${dir[2]}/Run2_displacedJetMuonNtupler_V1p17_Data2018D_17Sept2018_Run2018D-ZMu-PromptReco.root /mnt/hadoop/${dir[2]}/Run2_displacedJetMuonNtupler_V1p17_Data2018_17Sept2018_Run2018B-ZMu-17Sep2018.root /mnt/hadoop/${dir[2]}/Run2_displacedJetMuonNtupler_V1p17_Data2018_17Sept2018_Run2018A-ZMu-17Sep2018.root /mnt/hadoop/${dir[2]}/Run2_displacedJetMuonNtupler_V1p17_Data2018_17Sept2018_Run2018C-ZMu-17Sep2018.root
+hadd HSCPNtupler_SingleMuon_Run2018.root ${dir}/HSCPNtupler_SingleMuon_Run2018A_Code${version}_v1.root ${dir}/HSCPNtupler_SingleMuon_Run2018B_Code${version}_v1.root ${dir}/HSCPNtupler_SingleMuon_Run2018C_Code${version}_v1.root ${dir}/HSCPNtupler_SingleMuon_Run2018D_Code${version}_v1.root
 
 
 eval `scram unsetenv -sh`
 LD_LIBRARY_PATH=/usr/lib64:$LD_LIBRARY_PATH
-for i in ${!outputRoot[@]}
+for year in \
+2017 \
+2018
 do
 	echo $i
-	if [ -f ${outputRoot[$i]} ]
+	if [ -f HSCPNtupler_SingleMuon_Run${year}.root ]
 	then
-		echo " ${outputRoot[$i]} hadd done"
+		echo " HSCPNtupler_SingleMuon_Run${year}.root hadd done"
 	fi
+	cp HSCPNtupler_SingleMuon_Run${year}.root ${dir}/HSCPNtupler_SingleMuon_Run${year}.root	
 	
-	gfal-copy --checksum-mode=both  ${outputRoot[$i]} gsiftp://transfer.ultralight.org/${dir[$i]}/${outputRoot[$i]}
-	
-	if [ -f /mnt/hadoop/${dir[$i]}/${outputRoot[$i]} ]
+	if [ -f ${dir}/HSCPNtupler_SingleMuon_Run${year}.root ]
 	then
 		echo "copy succeed"
-		rm  ${outputRoot[$i]}
+		rm  HSCPNtupler_SingleMuon_Run${year}.root
 	fi
 done

@@ -3,7 +3,7 @@
 #ifndef HSCPTree_H
 #define HSCPTree_H
 
-#define N_MAX_LEPTONS 100
+#define N_MAX_LEPTONS 20
 #define N_MAX_JETS 100
 #define N_MAX_CSC 200
 #define N_MAX_CSCRECHITS 5000
@@ -33,14 +33,7 @@ class HSCPTree
 public:
   HSCPTree();
   ~HSCPTree();
-  // HSCPTree::HSCPTree()
-  // {
-  //   InitVariables();
-  // };
-  // HSCPTree::~HSCPTree()
-  // {
-  //   if (f_) f_->Close();
-  // };
+
   TTree *tree_;
   TFile *f_;
 
@@ -50,11 +43,48 @@ public:
   bool HLT_Mu50, HLT_PFMET120_PFMHT120_IDTight, HLT_PFHT500_PFMET100_PFMHT100_IDTight, HLT_PFMETNoMu120_PFMHTNoMu120_IDTight_PFHT60, HLT_MET105_IsoTrk50;
 
   float met, metPhi;
+  int nLeptons;
+  float lepE[N_MAX_LEPTONS];
+  float lepPt[N_MAX_LEPTONS];
+  float lepEta[N_MAX_LEPTONS];
+  float lepPhi[N_MAX_LEPTONS];
+  int lepPdgId[N_MAX_LEPTONS];
+  float lepDZ[N_MAX_LEPTONS];
+  bool lepLooseId[N_MAX_LEPTONS];
+  bool lepTightId[N_MAX_LEPTONS];
+  bool lepPassLooseIso[N_MAX_LEPTONS];
+  bool lepPassTightIso[N_MAX_LEPTONS];
+  //bool lepPassVTightIso[N_MAX_LEPTONS];
+  //bool lepPassVVTightIso[N_MAX_LEPTONS];
+
+  float ZMass;
+  float ZPt;
+  float ZEta;
+  float ZPhi;
+  int ZleptonIndex1;
+  int ZleptonIndex2;
+
+
+  float genZMass;
+  float genZPt;
+  float genZEta;
+  float genZPhi;
+  int genZleptonIndex1;
+  int genZleptonIndex2;
+
+  int nGenHSCP;
+  int genHSCP_pdgid[N_MAX_HSCP];
+  int genHSCP_type[N_MAX_HSCP];
+  float genHSCP_pt[N_MAX_HSCP];
+  float genHSCP_eta[N_MAX_HSCP];
+  float genHSCP_phi[N_MAX_HSCP];
+  float genHSCP_e[N_MAX_HSCP];
 
   // HSCP
   int nHSCP;
   float HSCP_pt[N_MAX_HSCP];
   float HSCP_eta[N_MAX_HSCP];
+  float HSCP_phi[N_MAX_HSCP];
   UInt_t HSCP_nPixelHit[N_MAX_HSCP];
   UInt_t HSCP_nHits[N_MAX_HSCP];
   bool HSCP_isHighPurity[N_MAX_HSCP];
@@ -70,8 +100,15 @@ public:
   float HSCP_mass[N_MAX_HSCP];
   float HSCP_dZ[N_MAX_HSCP];
   float HSCP_dXY[N_MAX_HSCP];
-
-
+  float HSCP_dZ_pv[N_MAX_HSCP];
+  float HSCP_dXY_pv[N_MAX_HSCP];
+  float HSCP_Ih[N_MAX_HSCP];
+  int HSCP_ErrorHisto_bin[N_MAX_HSCP];
+  int HSCP_type[N_MAX_HSCP];
+  bool HSCP_match_genHSCP[N_MAX_HSCP];
+  float HSCP_match_genHSCP_minDeltaR[N_MAX_HSCP];
+  int HSCP_match_genHSCP_index[N_MAX_HSCP];
+  bool HLTDecision[NTriggersMAX];
   void InitVariables();
   void InitTree();
   void LoadTree(const char* file);

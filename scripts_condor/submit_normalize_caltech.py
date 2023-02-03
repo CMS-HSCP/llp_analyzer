@@ -13,8 +13,8 @@ os.system("mkdir -p log")
 executable = "normalize.sh"
 
 
-inputDir="/storage/af/group/phys_exotica/HSCPAnalyzer/V1p0/MC_UL18/v2/"
-#inputDir="/storage/af/group/phys_exotica/HSCPAnalyzer/V1p0/Data_UL/SingleMuon/v2/"
+inputDir="/storage/af/group/phys_exotica/HSCPAnalyzer/V1p2/MC_UL18/v8/"
+#inputDir="/storage/af/group/phys_exotica/HSCPAnalyzer/V1p2/Data_UL/SingleMuon/v8/"
 outputDir=inputDir  + "/normalized/"
 HOME = os.getenv('HOME')
 CMSSW_BASE = os.getenv('CMSSW_BASE')
@@ -26,7 +26,7 @@ datasetList = OrderedDict()
 samples = os.listdir(inputDir)
 for s in samples:
     if "normalize" in s: continue
-    if not 'TTToSemiLeptonic' in s:continue
+    #if not "gluino" in s and not 'Stau' in s:continue
     if 'Data' in inputDir: datasetList[s.replace('.txt', '')] = ["2018", "yes"]
     else: datasetList[s.replace('.txt', '')] = ["2018", "no"]
 ############

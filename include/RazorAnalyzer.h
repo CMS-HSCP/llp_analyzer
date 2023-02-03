@@ -31,33 +31,10 @@ class RazorAnalyzer: public HscpCandidates {
         //------ LIST OF ANALYSES ------//
         virtual void Analyze(bool isData, int option, string outputFileName, string label);
 
-
-
-        enum RazorBox { //boxes for razor inclusive analysis
-	  MuEle = 0,
-	  MuMu = 1,
-	  EleEle = 2,
-	  MuSixJet = 3,
-	  MuFourJet = 4,
-	  MuJet = 5,
-	  EleSixJet = 6,
-	  EleFourJet = 7,
-	  EleJet = 8,
-	  LooseLeptonSixJet = 9,
-	  LooseLeptonFourJet = 10,
-	  SixJet = 11,
-	  FourJet = 12,
-	  LooseLeptonDiJet = 13,
-	  DiJet = 14,
-	  TwoBJet = 15,
-	  OneBJet = 16,
-	  ZeroBJet = 17,
-	  MuMultiJet = 18,
-	  EleMultiJet = 19,
-	  LooseLeptonMultiJet = 20,
-	  MultiJet = 21,
-	  NONE = 999
-        };
+        double deltaPhi(double phi1, double phi2);
+      	double deltaR(double eta1, double phi1, double eta2, double phi2);
+        TLorentzVector makeTLorentzVector(double pt, double eta, double phi, double energy);
+      	TLorentzVector makeTLorentzVectorPtEtaPhiM(double pt, double eta, double phi, double mass);
 };
 
 #endif

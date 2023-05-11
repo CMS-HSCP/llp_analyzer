@@ -1,0 +1,2 @@
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p3/MC_UL18/HSCPpairStau_M-1409_TuneCP5_13TeV-pythia8/HSCPNtupler_2018_HSCPpairStau_M-1409_wProbQ_v1p2_v1/230403_223053/0000/Histos_numEvent1000_1.root
+root://cmsxrootd.fnal.gov///store/group/lpchscp/ntuples/V1p3/MC_UL18/HSCPpairStau_M-1409_TuneCP5_13TeV-pythia8/HSCPNtupler_2018_HSCPpairStau_M-1409_wProbQ_v1p2_v1/230403_223053/0000/Histos_numEvent1000_3.root
